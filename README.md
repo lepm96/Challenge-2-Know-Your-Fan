@@ -157,5 +157,3 @@ O FURIA Fan Portal é uma landing page com interface conversacional (chatbot) pa
   pm2 start server.js
   ```
 
-## Suporte e Contato
-Para dúvidas ou suporte, entre em contato com o desenvolvedor.
